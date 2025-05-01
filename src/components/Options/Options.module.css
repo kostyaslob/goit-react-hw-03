@@ -1,0 +1,28 @@
+.option {
+    display: flex;
+    gap: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    background-color: #333a7c;
+    color: white;
+    transition: scale, background-color 300ms;
+}
+
+button:hover {
+    background-color: #45a049;
+    scale: 1.05;
+}
+
+.resetButton {
+    background-color: #b1241a;
+}
+
+.resetButton:hover {
+    background-color: #e42518;
+}

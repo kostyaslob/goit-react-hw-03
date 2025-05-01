@@ -1,0 +1,10 @@
+.notification {
+    background-color: #868fdf;
+    color: white;
+    width: 200px;
+    padding: 10px 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-size: 20px;
+    text-align: center;
+}
